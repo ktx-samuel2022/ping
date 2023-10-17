@@ -1,0 +1,46 @@
+
+.h{
+    width:100%;
+    margin:0px;
+    font-size: 50px;
+    
+    box-shadow: 0px 5px 15px grey;
+
+}
+.i{
+    background:white;
+    width:100%;
+    text-align: center;
+    font-size:30px;
+    padding:30px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+canvas{
+    border-radius: 30px;
+    border:2px solid black;
+    box-shadow: 0px 0px 30px grey;
+}
+video{
+    border-radius: 30px;
+    border: 2px solid black;
+    box-shadow: 0px 0px 30px grey;
+    background-color: white;
+}
+.btn-primary{
+    width:100%;
+    font-size: 25px!important;
+    margin-top: 0px;
+}
+.btn-info{
+    margin-right: 0px!important;
+    float: right;
+}
+
+.rodape h4{
+    text-align: center;
+    line-height: 2;
+    margin:0px;
+    background-color: gray;
+}
